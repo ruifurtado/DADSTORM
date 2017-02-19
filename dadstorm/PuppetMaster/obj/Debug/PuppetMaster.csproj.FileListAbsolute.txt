@@ -1,0 +1,11 @@
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\PuppetMaster\bin\Debug\PuppetMaster.exe.config
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\PuppetMaster\bin\Debug\PuppetMaster.exe
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\PuppetMaster\bin\Debug\PuppetMaster.pdb
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\PuppetMaster\obj\Debug\PuppetMaster.csprojResolveAssemblyReference.cache
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\PuppetMaster\obj\Debug\PuppetMaster.Properties.Resources.resources
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\PuppetMaster\obj\Debug\PuppetMaster.csproj.GenerateResource.Cache
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\PuppetMaster\obj\Debug\PuppetMaster.exe
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\PuppetMaster\obj\Debug\PuppetMaster.pdb
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\PuppetMaster\bin\Debug\SharedLibService.dll
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\PuppetMaster\bin\Debug\SharedLibService.pdb
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\PuppetMaster\obj\Debug\DADSTORM.MasterForm.resources

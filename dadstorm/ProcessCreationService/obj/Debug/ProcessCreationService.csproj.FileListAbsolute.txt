@@ -1,0 +1,8 @@
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\ProcessCreationService\obj\Debug\ProcessCreationService.csprojResolveAssemblyReference.cache
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\ProcessCreationService\bin\Debug\ProcessCreationService.exe.config
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\ProcessCreationService\bin\Debug\ProcessCreationService.exe
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\ProcessCreationService\bin\Debug\ProcessCreationService.pdb
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\ProcessCreationService\bin\Debug\SharedLibService.dll
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\ProcessCreationService\bin\Debug\SharedLibService.pdb
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\ProcessCreationService\obj\Debug\ProcessCreationService.exe
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\ProcessCreationService\obj\Debug\ProcessCreationService.pdb

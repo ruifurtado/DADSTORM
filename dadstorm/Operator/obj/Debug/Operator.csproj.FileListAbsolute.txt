@@ -1,0 +1,10 @@
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\Operator\bin\Debug\Operator.exe.config
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\Operator\bin\Debug\Operator.exe
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\Operator\bin\Debug\Operator.pdb
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\Operator\obj\Debug\Operator.exe
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\Operator\obj\Debug\Operator.pdb
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\Operator\obj\Debug\Operator.csprojResolveAssemblyReference.cache
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\Operator\bin\Debug\SharedLibService.dll
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\Operator\bin\Debug\SharedLibService.pdb
+G:\GitKraken\dadstorm\Operator\bin\Debug\Operator.exe
+G:\GitKraken\dadstorm\Operator\bin\Debug\SharedLibService.dll

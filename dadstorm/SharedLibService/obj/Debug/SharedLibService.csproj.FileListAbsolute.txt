@@ -1,0 +1,4 @@
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\SharedLibService\bin\Debug\SharedLibService.dll
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\SharedLibService\bin\Debug\SharedLibService.pdb
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\SharedLibService\obj\Debug\SharedLibService.dll
+c:\users\paulo\documents\visual studio 2015\Projects\DADSTORM\SharedLibService\obj\Debug\SharedLibService.pdb
